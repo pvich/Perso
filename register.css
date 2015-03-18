@@ -1,0 +1,16 @@
+form label {
+display: block;
+}
+form label[for=sex] label {
+display: inline;
+}
+p.message-error {
+text-decoration : blink;
+color: red;
+}
+p.message-info {
+color: blue;
+}
+p.message-valid {
+color: green;
+}
